@@ -23,7 +23,7 @@ This project sets up a PostgreSQL database environment with schemas and tables f
 
 2. Start the services using Docker Compose:
    ```bash
-   docker-compose up
+   docker compose up
    ```
 
 3. Wait till all services are running & Verify:
